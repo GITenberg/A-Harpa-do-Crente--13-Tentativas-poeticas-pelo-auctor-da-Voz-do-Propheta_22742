@@ -1,0 +1,44 @@
+_repo: A-Harpa-do-Crente--13-Tentativas-poeticas-pelo-auctor-da-Voz-do-Propheta_22742
+_version: 0.1.0
+alternative_title: "A Harpa do Crente\r\nTentativas poéticas pelo autor da Voz do\
+  \ Profeta"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Herculano, Alexandre
+    aliases:
+    - Araujo, Alexandre Herculano de Carvalho e
+    - Herculano, A. (Alexandre)
+    - Herculano, Alejandro
+    - Carvalho e Araujo, Alexandre Herculano de
+    - De Carvalho e Araújo, Alexandre Herculano
+    birthdate: 1810
+    deathdate: 1877
+    gutenberg_agent_id: '3118'
+    url: http://www.gutenberg.org/2009/agents/3118
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Alexandre_Herculano
+    - http://en.wikipedia.org/wiki/Alexandre_Herculano_de_Carvalho_e_Araujo
+description: ''
+edition_note: Primeira Serie
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2007-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22742'
+language: pt
+language_note: This ebook uses 19th century spelling
+production_note: "Produced by Pedro Saborano. (produced from scanned images\r\nof\
+  \ public domain material from Google Book Search)"
+publication_note: "Lisboa:\r\nNa Typ. Da Sociedade Propagadora Dos Conhecimentos Uteis.\r\
+  \nRua Direita Do Arsenal--N.º 55.\r\n1838"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: "A Harpa do Crente\r\nTentativas poeticas pelo auctor da Voz do Propheta"
+url: http://www.gutenberg.org/ebooks/22742
